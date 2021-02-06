@@ -1,2 +1,2 @@
-# iEDUCATEapp
-This is a Education app.
+# gymApp
+This is a gym application.
